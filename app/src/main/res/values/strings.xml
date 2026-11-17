@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Thermal SDK Sample</string>
+    <string name="take_picture">Take picture</string>
+    <string name="grant_camera">Grant camera permission</string>
+    <string name="status_starting">Starting</string>
+    <string name="status_searching">Searching for the thermal camera</string>
+    <string name="status_connecting">Connecting</string>
+    <string name="status_streaming">Streaming</string>
+    <string name="status_no_permission">Camera permission is needed</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="status_no_module">No thermal camera found on this headset</string>
+    <string name="calibrating">Calibrating…</string>
+    <string name="distance_near">Near</string>
+    <string name="distance_middle">Middle</string>
+    <string name="distance_far">Far</string>
+    <string name="picture_saved">Saved: %1$s</string>
+    <string name="picture_failed">Could not save the picture</string>
+    <string name="sdk_version">FLIR SDK %1$s</string>
+</resources>

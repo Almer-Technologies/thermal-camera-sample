@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Thermometer: stem and bulb. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,30a6,6 0 0,1 12,0v28.5a11,11 0 1,1 -12,0z" />
+    <path
+        android:fillColor="#FF5A1F"
+        android:pathData="M51.5,44h5v17a7,7 0 1,1 -5,0z" />
+</vector>

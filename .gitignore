@@ -1,0 +1,10 @@
+# FLIR SDK files: put them in app/libs/ locally, do not commit them.
+*.aar
+
+.gradle/
+build/
+local.properties
+.idea/
+.kotlin/
+*.iml
+.DS_Store
